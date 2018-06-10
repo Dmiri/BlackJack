@@ -1,0 +1,5 @@
+Gamers = 4; ; 
+ - 17 - Activiti; Diamonds - Quin - Red, Diamonds - King - Red; 
+ - 8 - Activiti; Cross - two - Black, Club - six - Red; 
+ - 13 - Activiti; Club - A - Red, Club - two - Red; 
+ - 13 - Activiti; Peak - Quin - Black, Cross - five - Black; 
